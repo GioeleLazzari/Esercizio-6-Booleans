@@ -1,0 +1,66 @@
+body{
+ position: relative;
+}
+
+.container{
+  width: 1000px;
+  height: 815px;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  text-align: center;
+}
+
+.ipad{
+  width: 300px;
+  height: 372px;
+  background-image: url(pd1.jpg);
+  position: relative;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 42px;
+  text-align: right;
+  
+  
+}
+
+.sconto30{
+  width: 35px;
+  height: 18px;
+  background-color: green;
+  text-align: right;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  
+}
+
+.iphone{
+  width: 300px;
+  height: 372px;
+  background-image: url(pd2.jpg);
+  position: relative;
+  display: inline-block
+}
+
+.sconto5{
+  width: 35px;
+  height: 18px;
+  background-color: red;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+
+}
+
+.cuffie{
+  width: 300px;
+  height: 372px;
+  background-image: url(pd3.jpg);
+  position: relative;
+  display: inline-block
+}
+
+
+
+
